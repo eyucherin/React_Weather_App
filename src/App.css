@@ -1,0 +1,30 @@
+body{
+    background: url("https://png.pngtree.com/thumb_back/fw800/back_our/20190628/ourmid/pngtree-hand-drawn-blue-sky-white-clouds-weather-forecast-illustration-background-image_270899.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.weatherBox{
+    display: flex;
+    border: 3px solid white;
+    padding: 50px;
+    background-color: rgb(204, 128, 181);
+    border-radius: 30px;
+    width: 450px;
+    align-items: center;
+    flex-direction: column;
+    margin: 30px;
+}
+
+.addMargin {
+    margin:5px;
+}
