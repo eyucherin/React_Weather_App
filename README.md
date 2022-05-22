@@ -1,3 +1,16 @@
+# Check out my project here 
+- myweatherappreact.netlify.app
+<p align="center">
+<img src="https://user-images.githubusercontent.com/66363530/169691575-b735d6c1-eab6-4172-a04e-7a2ccc5e98ce.png" width="850" height="370" border="10"/>
+</p>
+
+# What I learned 
+- fetching API from openweatherapi
+- Getting current Location
+- Async and async awaits for asynchronous calls 
+- using basic hooks like useState and useEffect 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
